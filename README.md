@@ -101,7 +101,7 @@
                     </a> 
                 </li>
                 <li> 
-                    <a href="https://github.com/ecaterinacatargiu/DB2"> 
+                    <a href="https://github.com/ecaterinacatargiu/MGDB"> 
                         :minidisc: Database Management Systems
                     </a> 
                 </li>
