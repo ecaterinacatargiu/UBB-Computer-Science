@@ -4,12 +4,12 @@
     <li>:books:     Semester 1
         <ul>
             <li>
-                <a href="https://github.com/ecaterinacatargiu/FundamentalsOfProgramming"> 
+                <a href="https://github.com/ecaterinacatargiu/FP"> 
                     :snake:  Fundamentals of Programming 
                 </a>
             </li>  
             <li>  
-                <a href="https://github.com/ecaterinacatargiu/ComputersSystemsArchitecture"> 
+                <a href="https://github.com/ecaterinacatargiu/ASC"> 
                     :computer: Computers Systems Architecture
                 </a> 
             </li>
