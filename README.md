@@ -56,7 +56,12 @@
                     <a href="https://github.com/ecaterinacatargiu/DynamicSystems"> 
                         :school_satchel: Dynamic Systems
                     </a> 
-                </li>           
+                </li>        
+                 <li> 
+                    <a href="https://github.com/ecaterinacatargiu/SO"> 
+                        :book: Operating Systems
+                    </a> 
+                </li>     
            </ul>
     </li>
     <li>:books: Semester 3
